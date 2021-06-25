@@ -1,0 +1,60 @@
+
+1. Which one of the following physical quantities does not represent the SI-unit at the right?
+    A. force - kg m/s^2
+    B. time - minute
+    C. amount of substance - mol
+    D. work - kg m^2/s^2
+===
+2. Which of the following is not an SI unit?
+    A. joule
+    B. meter
+    C. kg m/s^3
+    D. newton
+===
+3. Belay drives 3km east ward and then 4 km north ward. what is the magnitude of Belay's total displacement
+    A. 7 km
+    B. 5 km
+    C. 1 km
+    D. 7 km
+===
+4. Some derived units are obtained _______.
+    A. by subtracting a base unit from another different base unit
+    B. by dividing a base unit by another unit
+    C. by multiplying different base units
+    D. B and C are correct
+===
+5. What is the horizontal component of the displacement vector shown below
+    A. 2 km
+    B. 4 km
+    C. 1 km
+    D. 3 km
+===
+6. In the below figure represents diagram method of vector addition. the resultant vector in the diagram (a) is
+    A. zero
+    B. C
+    C. A+B+C
+    D.none
+===
+7. from he above figure, which one of the following is analytical fom of the diagram?
+    A. A + B + C = 0
+    B. A + B = C
+    C. A = B + C
+    D. A and B are correct
+===
+8. Suppose vectors A and B are given, which one of the following equalities is wrong
+    A. 5(A + B) = 5A + 5B
+    B. 5(A + B) = 5B + 5A
+    C. 1/5(A + B) = A/5 + B/5
+    D. 5(2A + B) = 10A + B
+===
+9. Suppose vectors A and B are related by A = aB; where a is real number. If A and B have opposite direction,then
+    A. a is a negative number
+    B. a = 0
+    C. a is a positive number
+    D. there is no such equality
+===
+10. The force vector can be added together if and only if they
+    A. have the same direction
+    B. are acting on the same object
+    C. are measured by the same unit
+    D. all are correct

@@ -1,0 +1,60 @@
+
+1. The force between a charge of 25µC and a charge of -10µC is 8.0N.what is the separation between the two charges?
+    A. 0.28m
+    B. 0.53m
+    C. 0.45m
+    D. 0.15m
+===
+2. The diagram shows the electric field lines between two electical charges Y and Z. Which of the following statements about the charges on Y and Z is correct?
+    A. Y is negative and Zis positive
+    B. Y is positive and Z is negative.
+    C. Y and Z are both positive
+    D. it onlt only show the intensity of the electric field
+===
+3. A charge Q exerts a 12N force on another q.If the distance between the charge is halved,what is the magnitude of the force exerted onQ by q.
+    A. 3N
+    B. 48N
+    C. 24N
+    D. 36N
+===
+4. If three capacitor(C1=10µF,C2=15µF and C3=6µF)is connected in parallel, waht is the equevalent capacitance of the capacitor?
+    A. 3µF
+    B. 25µF
+    C. 31µF
+    D. 16µF
+===
+5. What is the effective capacitance in the circuit given below?
+    A. 50µF
+    B. 3µF
+    C. 10µF
+    D. zero
+===
+6. Which of the following is proportional to the capacitance of a parallel plate capacitor?
+    A. the charge stored on each conducting plate
+    B. the potential difference between the two plates
+    C. the separation distance between the two plates
+    D. the area of each plates
+===
+7. Choose the correct statement concerning electric field lines:
+    A. field lines may cross
+    B. field lines are close together where the field is large
+    C. field lines point away from negatively charged particle
+    D. A charged point particle released from rest moves along field line
+===
+8. To make an uncharged object have a positive charge:
+    A. remove some neutrons
+    B. add some neutrons
+    C. add some electrons
+    D. remove some electrons
+===
+9. Charging a neutral body by touching it with a charged body is called charging by_________.
+    A. conduction
+    B. grounding
+    C. induction
+    D. discharging
+===
+10. A force of 14N exists on charge q,which is 2.1 x 10^-19 C. What is called charging by ________.
+    A. 0.15 x 10^-19 N/C
+    B. 29 x 10^-9 N/C
+    C. 6.7 x 10^-9 N/C
+    D. 6.7 x 10^9 N/C

@@ -1,0 +1,60 @@
+
+1. A wheel rotates with constant angular acceleration of 3.5 rad/s^2 if the angular speed of the wheel is 2.0 rad/s at t=0.which one of the following is incorrect about the ball at t=2sec?
+    A.the wheel rotates through an angle of 11 rad
+    B.the wheel rotates through 1.75 revolution
+    C.the angular speed of the wheel is 7 rad/s
+    D.none
+===
+2. Which of the following law is applied by a diver to control his spin by changing his moment of inertia by curling up or stretching out his body?
+    A.Kepler's law of planetary motion
+    B.Newton's law of universal gravition
+    C.the law of consevation of linear momentum
+    D.the law of consevation of angular momentum
+===
+3. Angular displacement is defined by units
+    A.revolution
+    B.radian
+    C.steradian
+    D.both A and B
+===
+4. The airplane shown is in flight at an attitude of 0.50km and speed of 150km/h.At what distance d should it release a heavy bomb to hit the target X?take g=10m/s^2.
+    A.150m
+    B.295m
+    C.420m
+    D.2550m
+===
+5. An object is moving on acircular path of radius p meters at constant speed of 4m/s.The time required for one revolution is:
+    A.2/p sec
+    B.p^2/2 sec
+    C.p/2
+    D.p^2/4
+===
+6. A car rounds a 20-m radius curve at 10m/s. The magnitude of its acceleration is:
+    A.0
+    B.0.20
+    C.5.0
+    D.40
+===
+7. The center of mass of a uniform disk of radius R is located:
+    A.on the rim
+    B.a distance R/2 from the center
+    C.at its geometric center
+    D.a distance 2R/3 from the center
+===
+8. What happens to the force of gravitational attraction between two samll objects if the mass of each object is doubled and the distance between their centers is doubled?
+    A.it is doubled
+    B.it is quadrupled(4 times)
+    C.it is halved
+    D.it remains the same
+===
+9.Two artificial satellites I and II have circular orbits of radii R and 2R,respectively,about the same planet.the orbital velocity of satellite I is v.what is the orbital velocity of orbital II?
+    A.v/2
+    B.
+    C.
+    D.2v
+===
+10. The moment of inertia of a disk about its axle does not depend upon its:
+    A.diameter
+    B.mass
+    C.distribution of mass 
+    D.speed of rotation

@@ -1,0 +1,95 @@
+
+1. A car is uniformly at 10m/s,which of the following changed uniformly?
+    A. velocity
+    B. acceleration
+    C. speed
+    D. distance
+===
+2. A car travels 8km to east and 6km to the north in 2 hr. what is the magnitude of average velocity of the car?
+    A. 14km/hr
+    B. 10km/hr
+    C. 5km/hr
+    D. 8km/hr
+===
+3. A body moving at a constant acceleration covers the distance b/n two points 120m apart in 6 sec, its velocity as it passes the second point is 30m/s. what is the velocity at the first point.
+    A. 20m/s
+    B. 10m/s
+    C. 5m/s
+    D. 40m/s
+===
+4. Id the speed of car decrease from rate of 60m/s to 20m/s in 8 sec, what is the distance travelled between the first 4 sec.
+    A. 100m
+    B. 200m
+    C. -280m
+    D. none
+===
+5. If a body travel vertically upward, which of the following is true?(neglegable air resistance)
+    A. its velocity increase uniformlly in its up ward motion
+    B. the vertical velocity is different from zero.
+    C. at the the maxiumum piont the velocity equals to zero.
+    D. B&C
+===
+6. which one of the following is not true
+    A. if the acceleration of abody is zero then the body move with constant velocity
+    B. If the speed of a moving body is constant then the velocity is always constant
+    C. the velocity is constant if and only if its magnitude and direction arenot changed
+    D. all
+===
+7. abody starts moves in a straight line with a constant acceleration and covers distance of 1280 in 8sec, what was the distance covered during the 4sec?
+    A. 140m
+    B. 160m
+    C. 240m
+    D. none
+===
+8. A helicopter is asending at rate of 40m/s vertically up wards an object dropped from its strikes the ground after 10sec. at waht height above the ground the object is droped.
+    A. 200m
+    B. 100m
+    C. 400m
+    D. none
+===
+9. From question 8 with what velocity the object striks the ground.
+    A. 30m up
+    B. 60m down
+    C. 30m down
+    D. 60m up
+===
+10. Aplain takes 4hr cover a distance of 250km what is average velocity of the plain?
+    A.17.4m/s
+    B.16.7m/s
+    C.4.8m/s
+    D.none
+===
+11. A train uniformlly accelerates its velocity from 35m/s to 80m/s in 3 min. what is the acceleration.
+    A. 10/2
+    B. 10/4
+    C. 10/40
+    D. none
+===
+12. A body accelerate from at 4m/s^2 for 5sec what is its average velocity?
+    A. 10m/s
+    B. 20m/s
+    C. 30m/s
+    D. 40m/s
+===
+13. A car accelerate uniformlly from 20m/s to 50m/s in 6sec. what is distance travelled during the 4sec.
+    A. 70m
+    B. 37m
+    C. 38m
+    D. 37.5m
+===
+14. A ball is thrown upward with a velocity of 20m/s.how heigh will it rise?
+    A. 10m
+    B. 40m
+    C. 30m
+    D. 20m
+===
+15. In question 14 how long will the ball stay in air.
+    A. 1/2sec
+    B. 4sec
+    C. 5.5sdc
+    D. none
+
+
+
+
+

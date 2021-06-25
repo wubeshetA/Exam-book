@@ -1,0 +1,72 @@
+
+1.The zinc can in a standared dry cell is ______.
+    A. the anode
+    B. the cathode
+    C. the negative pole
+    D. A and B are correct
+===
+2. The central rod in a standered dry cell is ______
+    A. the positive pole of the cell
+    B. the anode
+    C. the cathode
+    D. A and C are correct
+===
+3. The electrolyte in the standard dry cell is ______
+    A. ammonium chloride 
+    B. maganese dioxide
+    C. the carbon powder
+    D. None
+===
+4. The two conductor in an thermocouple are ______.
+    A. joined at their ends 
+    B. function when the ends are at different tempratures
+    C. dissimilar
+    D. all are correct
+===
+5. A battery is connected to an external resistor.The potential drop within the battery is prportional to:
+    A. the electromotve force of the battery. 
+    B. the total resistance of the circuit.
+    C. the current in the circuit.
+    D. the power developed in the circuit.
+===
+6. Which of the following is not true about an emf?
+    A. it is the energy per unit charge transformed in a reversible process.
+    B. an emf causes different of potential to exit between points in the circuit.
+    C. the terminal potential defference of a battery is less that its emf when the battery is discharging.
+    D. None of the above
+===
+7. A wire carry a current of 2.5 A.How much charge passes a given cross section in 2 seconds?
+    A. 2.5C
+    B. 1.25C
+    C. 5C
+    D. 10C
+===
+8.A complete simple circuit is _______.
+    A. one which is closed loop
+    B. a circuit that contain at least one source of voltage 
+    C. a circuit that contains at least one potential drop i.e., a place where potential energy decreases
+    D. All are correct
+===
+9.how much resistance is in a toaster that draws 2.2 A of current when plugged into a 110V wall socket?
+    A. 20
+    B. 30
+    C. 25
+    D. 50
+===
+10. What voltage is needed to run an electric iron drawing 4.4A of current through a circuit with a resistance of 16?? 
+    A. 3.6 V
+    B. 0.275 V
+    C. 70.4 V
+    D. None
+===
+11. Determine the resistance of a 500 long cylinderical copper wire of cross-sectional diameter 4 mm.
+    A. 2.70
+    B. 1.35
+    C. 2.74
+    D. 0.68
+===
+12.which of the following statements is not true?
+    A. connecting additional resistor in series increases the total resistance.
+    B. when resistor are connected in parallel,the resistance of the combination is smaller than any one of the individual resistance.
+    C. for a parallel arrangment of identical cells, the emf of the battery is the same as the emf of a single cell.
+    D. None of the above  

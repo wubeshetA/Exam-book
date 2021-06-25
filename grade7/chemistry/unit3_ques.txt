@@ -1,0 +1,60 @@
+
+1. which of the following represents an element?
+    A.HCl
+    B.HI
+    C.HF
+    D.He
+===
+2. Acids in their aqueous solution produce ions of:
+    A.Nitrogen
+    B.Hydrogen
+    C.Hydroxide
+    D.Oxygen
+===
+3. Bases in thier aqueous solution produce ions of:
+    A.Nitrogen
+    B.Hydrogen
+    C.Hydroxide
+    D.Oxygen
+===
+4. A compound containing nitrogen and metal is called:
+    A.nitride
+    B.nitrite
+    C.nitrate
+    D.hyponitrate
+===
+5. what would be the atomic number of an atom with two valance electrons?
+    A.6
+    B.8
+    C.3
+    D.10
+===
+6. In which one of the following pairs is the name of the element and its symbol correctly matched?
+    A.P - Potassium
+    B.C - Calcium
+    C.Ag - Siliver
+    D.Ma - Magnesium
+===
+7. which of the element listed below form a hydroxide of the formula M(OH)2?
+    A.Al
+    B.Ba
+    C.Rb
+    D.Na
+===
+8.How many atoms of Aluminum, Nitrogen and Oxygen respectively are found in two molecule of Aluminum nitrate?
+    A.2,6,8
+    B.2,2,9
+    C.2,4,8
+    D.18,6,2
+===
+9. Which one of the following doesn't conserve during chemical reaction?
+    A.atoms
+    B.mass
+    C.energy
+    D.molecules
+===
+10. In any chemical reaction the total mass of the reacting substances are exactly equal to the total mass of the products refers to 
+    A.the law of conservation of mass
+    B.the law of definite proportion
+    C.the law of multiple proportion
+    D.the law of constant composition

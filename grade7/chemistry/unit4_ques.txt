@@ -1,0 +1,60 @@
+
+1. At the first time Atomic theory was proposed by:
+    A.J.Dalton
+    B.Ruther ford
+    C.Democritus
+    D.J.J Thomson
+===
+2. The lightless particle of an atom is
+    A.Electron
+    B.protons
+    C.Nuetrons
+    D.molecules
+===
+3. Which of the following is found inside the nucleus:
+    A.proton & neutron
+    B.proton & electron
+    C.proton only
+    D.none
+===
+4. The nucleus of an atom was discovered by:
+    A.J.J Thomson
+    B.J. chadwick
+    C.E.Gold stein
+    D.E.Ruther ford
+===
+5. which sub atoms particles is chargeless
+    A.nuetron
+    B.proton
+    C.electron
+    D.nucleus
+===
+6.If atoms "A" and "B" are isotopes of the same element, then "A" & "B" have the same:
+    A.number of neutrons
+    B.mass number
+    C.number of electrons
+    D.physical property
+===
+7. The nucleus of the atom:
+    A.contains most of the atoms mass
+    B.contains neutrons and electron
+    C.is negatively charge
+    D.occupies largest part of the atom
+===
+8. An atom of C(A=14,z=6) contains:
+    A.6 protons, 8 neutrons,8 electrons
+    B.6 protons, 8 neutrons,6 electrons
+    C.6 protons, 6 neutrons,8 electrons
+    D.8 protons, 8 neutrons,6 electrons
+===
+9. The electrons configuration of P(A=31,z=15) is
+    A.2,8,18,3
+    B.2,8,16,5
+    C.2,5,8
+    D.2,8,5
+===
+10. What is the average mass of copper, if it contains 70% of Cu 63 and 30% cu 65?
+    A.64
+    B.60.5
+    C.63.6
+    D.65

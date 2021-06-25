@@ -1,0 +1,90 @@
+
+1. A magnet has two opposite poles, referred to as north and south.Is it possible to separate a north pole from south pole and use them independently?
+    A. No
+    B. Yes
+    C. it depends on the nature of the magnet
+    D. none
+===
+2. Which one of the following statement is not the property of magnetic line of force?
+    A. magnetic line of force do not cross each other.
+    B. the direction of a magnetic field strength at a point lies on a aline tangent to the field line curve at that point.
+    C. lines of force of neighboring opposite poles connect
+    D. lines of force of neighboring like poles connect.
+===
+3. The magnitude of magnetic field strength at the center of a current carrying solenoid can be increased by ______.
+    A. increasing the number of turns
+    B. inserting an iron rode
+    C. decreasing the length of the coil keeping the other factor constant
+    D. all are correct
+===
+4. Magnetic line of force inside a current carrying circular loop are _____ to the plane of the loop.
+    A. nearly perpendicular
+    B. oriented at any angle with respect
+    C. parallel
+    D. None
+===
+5. If the direction of the current in a solenoid changes,________ also changes.
+    A. the magnitude of the field intensity
+    B. the polarity of the solenoid
+    C. the direction of he field
+    D. B and C are correct.
+===
+6. Magnetic field is produced by only a moving _______.
+    A. charge
+    B. electrically neutral object
+    C. magnetic substance only
+    D. None
+===
+7. the free north seeking pole of the compas needle is attracted by earth's magnetic field exactly towards________of the earth.
+    A. geographic north
+    B. magnetic south
+    C. magnetic north
+    D. A and B are correct
+===
+8. In the figure below, a straight wire carrying current I directed in to the page, is in uniform magnetic field directed as shown in the figure.In which direction does the wire deflect?
+    A. to the right
+    B. to the left
+    C. downward
+    D. upward
+===
+9. On the figure above, at which is the magnetic field intensity has maximum value provided that all points(A,B,C and D) are equidistance from the wire?
+    A. A
+    B. B
+    C. C
+    D. D
+===
+10. Back emf induced in an inductor to ___________.
+    A. oppose the changing flux across it
+    B. reduce the resistance of the circuit
+    C. protect the circuit from very big current
+    D. enhance the increasing or decreasing current
+===
+11. What is the magnitude of the magnetic field strength at perpendicular distance of 2 cm away from along straight conductor carrying a 2.8A current?
+    A. 1.4 x 10^-5 T
+    B. 12000 T
+    C. 2.8 x 10^-5 T
+    D. None
+===
+12. in the figure below , an electron and proton enter into a region of uniform magnetic feild in the directions indicated. which one is wrong?
+    A. the electron deflects towards into the page
+    B. the electron deflects towards out of the page
+    C. no magnetic force act on the proton
+    D. the electron deflects to the left
+===
+13. The current through a solenoid varies at the rate of 1.8 A/s. If the average emf developed in the coil is 18V,what is the self inductance of the solenoid?
+    A. 0.2 H
+    B. 0.4 H
+    C. 1 H
+    D. None
+===
+14. The value of the self inductance of an inductor is directly proportional to ________.
+    A. the square of the number of turns per length
+    B. the permeability of the core material
+    C. the current through it.
+    D. A and B are correct
+===
+15. which of the following statement is not correct about magnetic line of force?
+    A. the field s stronger, where the field line crowd together
+    B. the direction of the magnetic field inside a solenoid lies on the axis of the coil.
+    C. the magnetic field line due to a current through a straight conductor is perpendicular to the electric field produced by the current
+    D. None
